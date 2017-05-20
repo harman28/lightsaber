@@ -27,11 +27,11 @@ class TestConfig < Minitest::Test
   end
 
   def resolves_to_lightsaber(domain)
-    flag = domain === "lightsaber.captnemo.in"
+    flag = domain === "lightsaber.thatharmansingh.com"
     Resolv::DNS.open do |dns|
       records = dns.getresources domain, Resolv::DNS::Resource::IN::CNAME
       records.each do |record|
-        flag||=record.name.to_s === "lightsaber.captnemo.in"
+        flag||=record.name.to_s === "harman-lightsaber.herokuapp.com"
       end
     end
     flag

@@ -3,6 +3,8 @@
 Lightsaber is a simple DNS Redirect service. It offers 301/302 redirects for
 your domains. The configuration is kept public on this github repository itself.
 
+**I'm quite clueless about how this stuff works. If you have any questions or need any help setting this up, I strongly suggest you head [upstream](https://lightsaber.captnemo.in). Tag me too, so I can learn as well.**
+
 ## Usage
 
 To add a DNS record, point your domain via a CNAME entry to `lightsaber.captnemo.in`.
