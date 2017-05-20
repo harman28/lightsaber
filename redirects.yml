@@ -1,23 +1,15 @@
 ---
 301:
   # This is the base root for all requests
-  # github.captnemo.in/lightsaber => github.com/captn3m0/lightsaber
-  github.captnemo.in:
-    root: https://github.com/captn3m0
-  lightsaber.captnemo.in: https://github.com/captn3m0/lightsaber
-  chat.hackercouch.com: https://webchat.freenode.net/?channels=hackercouch
-  dev-s.captnemo.in: https://slackipy-codetogether.rhcloud.com/
-  twitter.captnemo.in: https://twitter.com/captn3m0
-  about.captnemo.in: https://about.me/n3m0
-  books.captnemo.in: https://goodreads.com/user/show/6170741-abhay-rana
-  join.theindiangeek.in: https://slackipy-codetogether.rhcloud.com/
-  blog.razorpay.com:
-    root: https://razorpay.com/blog
-  maker.rzp.io: http://www.paulgraham.com/makersschedule.html
-  pi.captnemo.in: http://tatooi.ne:8000/
+  # github.thatharmansingh.com/lightsaber => github.com/harman28/lightsaber
+  github.thatharmansingh.com:
+    root: https://github.com/harman28
+  fb.thatharmansingh.com: https://facebook.com/thatharmansingh
+  about.thatharmansingh.com: https://about.me/harman.singh
+  books.thatharmansingh.com: https://www.goodreads.com/user/show/29255395-harman-singh
+  couch.thatharmansingh.com: https://hackercouch.com/couches/harman.html
+  quora.thatharmansingh.com: https://www.quora.com/profile/Harman-Singh-5/answers
+  twitter.thatharmansingh.com: https://twitter.com/ThatHarmanSingh
+  dotfiles.thatharmansingh.com: https://github.com/harman28/.dotfiles
 302:
-  fb.captnemo.in: https://facebook.com/captn3m0
-  where.rzp.io: https://goo.gl/maps/1A9nhMPzehS2
-  where.razorpay.com: https://goo.gl/maps/1A9nhMPzehS2
-  iitr.rzp.io: https://docs.google.com/forms/d/1yeSslZbjGN1V7nLsLYytdfAIH26_wLXKclfx2VZscWs/viewform
-  mail.shauryaa.in: https://webmail.migadu.com
+  tennis.thatharmansingh.com: https://medium.com/seed-data
