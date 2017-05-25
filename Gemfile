@@ -1,10 +1,10 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 gem 'sinatra'
 
 group :test do
-  gem 'minitest'
   gem 'mina'
+  gem 'minitest'
 end
 
 group :production do
