@@ -2,10 +2,3 @@ language: ruby
 rvm:
   - 2.2.2
 script: ruby test.rb
-deploy:
-  edge: true
-  provider: script
-  script: bash deploy.sh
-  on:
-    branch: master
-    rvm: 2.2.2
