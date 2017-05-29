@@ -14,4 +14,6 @@
   lightsaber.thatharmansingh.com: https://lightsaber.captnemo.in
 302:
   tennis.thatharmansingh.com: https://medium.com/seed-data
-  where.thatharmansingh.com: https://goo.gl/maps/1A9nhMPzehS2
+  where.thatharmansingh.com:
+    delhi: https://goo.gl/maps/1A9nhMPzehS2
+    gurgaon: https://goo.gl/maps/PX2apgMYQ6L2
