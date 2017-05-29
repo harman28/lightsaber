@@ -4,7 +4,6 @@
   # github.thatharmansingh.com/lightsaber => github.com/harman28/lightsaber
   github.thatharmansingh.com:
     root: https://github.com/harman28
-  where.thatharmansingh.com: https://itsssl.com/Where
   fb.thatharmansingh.com: https://facebook.com/thatharmansingh
   about.thatharmansingh.com: https://about.me/harman.singh
   books.thatharmansingh.com: https://www.goodreads.com/harman28
@@ -15,3 +14,4 @@
   lightsaber.thatharmansingh.com: https://lightsaber.captnemo.in
 302:
   tennis.thatharmansingh.com: https://medium.com/seed-data
+  where.thatharmansingh.com: https://goo.gl/maps/1A9nhMPzehS2
