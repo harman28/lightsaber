@@ -40,7 +40,13 @@ class TestConfig < Minitest::Test
 
   def get_url(domain_object, rel_route)
     if domain_object.is_a? Hash
-      domain_object['root'] + '/' + rel_route
+      if domain_object.key? 'root'
+        domain_object['root'] + '/' + rel_route
+      elsif domain_object.key? rel_route
+        domain_object[rel_route]
+      else
+        domain_object.values.first
+      end
     elsif domain_object.is_a? String
       domain_object
     end
